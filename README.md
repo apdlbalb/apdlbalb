@@ -1,5 +1,3 @@
-### Hi there!
-
 I will be rewriting my projects in PEP 8 shortly - please bear with me! 
 
 <!--
