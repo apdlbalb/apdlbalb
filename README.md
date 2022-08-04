@@ -1,5 +1,7 @@
 ### Hi there!
 
+I will be rewriting my projects in PEP 8 shortly - please bear with me! 
+
 <!--
 **apdlbalb/apdlbalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
