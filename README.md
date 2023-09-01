@@ -1,4 +1,4 @@
-Totally love that, I just have some follow up questions ;)
+Totally love that, I just have some follow up questions :-)
 
 <!--
 **apdlbalb/apdlbalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
