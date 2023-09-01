@@ -1,5 +1,5 @@
-Hey there! 👋
-\\I'm currently working on patient subtyping to study preeclampsia at the Cox Systems Biology Lab at the University of Toronto
+Hey there! 👋\\
+I'm currently working on patient subtyping to study preeclampsia at the Cox Systems Biology Lab at the University of Toronto
 
 <!--
 **apdlbalb/apdlbalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
